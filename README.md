@@ -70,9 +70,7 @@ SUM:                            104           1553           2337           4722
 #### Ease of amending or adding a feature / Learning cost
 Very easy. This approach is more verbose, making the maintenance tasks more obvious.
 
-## External contributors
 
-Jorge J. Barroso ([Karumi](http://github.com/Karumi))
 
 
 
